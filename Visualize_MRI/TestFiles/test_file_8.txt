@@ -1,0 +1,14 @@
+-inputFile CT-Head-LSB.raw
+-inputType uint16
+-inputSpacing 0.95 1 1.8878
+-inputResolution 256 256 113
+-cameraOrigin -800 -800 106
+-cameraUp 0 -1 0
+-cameraLookat 121 128 106
+-cameraFov 30
+-cameraResolution 300 300
+-imagePlaneDistance 700
+-isoValue 1300
+-outFile ct_output_4.png
+-lightPosition -600 -600 106
+-interpType linear

@@ -1,0 +1,14 @@
+-inputFile stent16.raw
+-inputType uint16
+-inputSpacing 0.8398 0.8398 3.2
+-inputResolution 512 512 174
+-cameraOrigin 215 -2000 278
+-cameraUp 1 0 0
+-cameraLookat 215 215 278
+-cameraFov 45
+-cameraResolution 100 100
+-imagePlaneDistance 1900
+-isoValue 850
+-outFile stent_output_small.png
+-lightPosition 215 -800 278
+-interpType linear

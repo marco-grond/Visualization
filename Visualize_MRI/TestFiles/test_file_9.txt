@@ -1,0 +1,14 @@
+-inputFile MRI-woman.raw
+-inputType uint16
+-inputSpacing 1.0 1.5 1.0
+-inputResolution 256 109 256
+-cameraOrigin -600 82 128
+-cameraUp 0 1 0
+-cameraLookat 128 82 128
+-cameraFov 30
+-cameraResolution 300 300
+-imagePlaneDistance 500
+-isoValue 1200
+-outFile mri_output_1.png
+-lightPosition -600 -600 128
+-interpType linear
