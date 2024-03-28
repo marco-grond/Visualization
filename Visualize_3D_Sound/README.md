@@ -23,3 +23,7 @@ Additionally, the separate sound files for each of the microphones needs to be p
 Visualizations of the data are provided on [YouTube](https://www.youtube.com/playlist?list=PL-5kLq3t5DHx6u151c2lGbQ1H-ZkOe-Ho).
 
 ![](https://github.com/marco-grond/Visualization/blob/main/Visualize_3D_Sound/Output/exampleOutput.gif)
+
+## Report
+A report detailing this work is presented is this repo:
+[Report](https://github.com/marco-grond/Visualization/blob/main/Visualize_3D_Sound/SphericalMicrophoneVisualization.pdf)
