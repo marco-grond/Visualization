@@ -15,7 +15,6 @@ To execute the 2D visualization tool, run:
 ## Reproduce
 To reproduce, run the provided make file. Ensure that the correct libraries are installed:
 ```
-
 libsoil-dev
 libglu1-mesa-dev
 freeglut3-dev
